@@ -1,0 +1,11 @@
+{
+  "name": "ident",
+  "main": "index.js",
+  "devDependencies": {
+    "now": "^4.5.7"
+  },
+  "scripts": {
+    "deploy": "now",
+    "start": "node index.js"
+  }
+}
